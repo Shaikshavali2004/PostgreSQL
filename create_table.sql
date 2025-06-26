@@ -11,7 +11,7 @@ psql -U postgers -d postgres
 
 3)To CREATE DATABASE: CREATE DATABASE DATABASE_NAME;
 
-4)To use the database: \c database_name;
+4)To connect the database: \c database_name;
 
 5)To see the table STRUCTURE: \d table_name;
 
